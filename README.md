@@ -27,3 +27,7 @@ We have implemented following given analysis on our dashboard:
 4.Profit over each year sales trend analysis
 
 ![alt text](img/Trend-Analysis.JPG) 
+
+## Summary of the Dashboard
+
+![alt text](img/Dashboard.JPG) 
