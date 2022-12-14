@@ -51,7 +51,7 @@ We have implemented following given analysis on our dashboard:
 
 3. Summary report for Sales and Profit in states
 
-![alt text](img/fig 2.3.PNG) 
+![alt text](img/fig 2.3.jpg) 
 
 4.Profit over each year sales trend analysis
 
