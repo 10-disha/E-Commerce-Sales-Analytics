@@ -43,20 +43,11 @@ We have implemented following given analysis on our dashboard:
 
 1. Predictive Analysis - Sales Time Series Model
  
-![alt text](img/Predictive-Sales-Analysis.JPG) 
-
 2. Region Wise Profit and Sales Analysis
-
-![alt text](img/Region-Wise-Sales.JPG) 
 
 3. Summary report for Sales and Profit in states
 
-![alt text](img_new/fig 2.3.jpg) 
-
 4.Profit over each year sales trend analysis
 
-![alt text](img/Trend-Analysis.JPG) 
 
-## Summary of the Dashboard
 
-![alt text](img/Dashboard.JPG) 
