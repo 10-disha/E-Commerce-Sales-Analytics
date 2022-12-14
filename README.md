@@ -12,6 +12,32 @@ Walmart_Sales_Dashboard.twbx
 ## Dataset Used
 Walmart Retail Data.csv
 
+This visualization's data source, Kaggle open source, was used to obtain the information for our 
+Tableau visualization. The following fields in the excel spreadsheet were utilized to build 
+different interactive visualizations.
+• Product Category: The dataset has three significant categories. Technology, furniture, and 
+office supplies.
+• Product subcategory: Each major product category includes several subcategories, for 
+example, furniture has subcategories for tables, chairs, chair mats, bookcases, and office 
+furniture. Similar to how each product category has its own respective subcategories.
+• Region: An examination of the United States' central, eastern, western, and southern 
+regions.
+• State: Data on sales and profits for the entire state, broken down by product type and 
+subcategory.
+• Sales: The total quantity of purchases made by Walmart in a given year and category.
+• Profit: In a given year, profit was made in each category.
+• Order Date: Order date in the following format of DD-MM-YYYY
+• Order Priority: It represents various order importance values, including "high," "low," 
+"medium," and "critical."
+• Product Container: It shows a variety of container sizes, such as jumbo drums, wrap bags, 
+small packs, medium boxes, large boxes, and jumbo boxes.
+• Shipping mode: Three delivery options are available to analyze the data: express air, 
+regular air, and delivery truck.
+
+The dataset can be loaded into tableau public by directly importing the data file as a “data
+source” by navigating to the Data -> New Data Source option.
+
+
 ## Implementation
 We have implemented following given analysis on our dashboard:
 
