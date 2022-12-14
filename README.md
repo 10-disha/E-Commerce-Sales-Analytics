@@ -17,21 +17,21 @@ Tableau visualization. The following fields in the excel spreadsheet were utiliz
 different interactive visualizations.
 1. Product Category: The dataset has three significant categories. Technology, furniture, and 
 office supplies.
-2.Product subcategory: Each major product category includes several subcategories, for 
+2. Product subcategory: Each major product category includes several subcategories, for 
 example, furniture has subcategories for tables, chairs, chair mats, bookcases, and office 
 furniture. Similar to how each product category has its own respective subcategories.
-3.Region: An examination of the United States' central, eastern, western, and southern 
+3. Region: An examination of the United States' central, eastern, western, and southern 
 regions.
-4.State: Data on sales and profits for the entire state, broken down by product type and 
+4. State: Data on sales and profits for the entire state, broken down by product type and 
 subcategory.
-5.Sales: The total quantity of purchases made by Walmart in a given year and category.
-6.Profit: In a given year, profit was made in each category.
-7.Order Date: Order date in the following format of DD-MM-YYYY
-8.Order Priority: It represents various order importance values, including "high," "low," 
+5. Sales: The total quantity of purchases made by Walmart in a given year and category.
+6. Profit: In a given year, profit was made in each category.
+7. Order Date: Order date in the following format of DD-MM-YYYY
+8. Order Priority: It represents various order importance values, including "high," "low," 
 "medium," and "critical."
-9.Product Container: It shows a variety of container sizes, such as jumbo drums, wrap bags, 
+9. Product Container: It shows a variety of container sizes, such as jumbo drums, wrap bags, 
 small packs, medium boxes, large boxes, and jumbo boxes.
-10.Shipping mode: Three delivery options are available to analyze the data: express air, 
+10. Shipping mode: Three delivery options are available to analyze the data: express air, 
 regular air, and delivery truck.
 
 The dataset can be loaded into tableau public by directly importing the data file as a “data
