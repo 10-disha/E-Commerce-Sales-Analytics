@@ -9,6 +9,9 @@ Tableau
 ## Tableau Workbook
 Walmart_Sales_Dashboard.twbx
 
+## Dataset Used
+Walmart Retail Data.csv
+
 ## Implementation
 We have implemented following given analysis on our dashboard:
 
