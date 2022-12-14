@@ -11,8 +11,9 @@ Walmart_Sales_Dashboard.twbx
 
 ## Implementation
 We have implemented following given analysis on our dashboard:
+
 1. Predictive Analysis - Sales Time Series Model
  
 ![alt text](img/Predictive-Sales-Analysis.JPG) 
 
-3. 
+2. 
